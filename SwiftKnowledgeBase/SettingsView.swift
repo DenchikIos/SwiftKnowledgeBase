@@ -1,10 +1,3 @@
-//
-//  SettingsView.swift
-//  SwiftKnowledgeBase
-//
-//  Created by User on 05.06.2024.
-//
-
 import SwiftUI
 
 struct SettingsView: View {
@@ -42,4 +35,5 @@ struct SettingsView: View {
             }
         }
     }
+    
 }
